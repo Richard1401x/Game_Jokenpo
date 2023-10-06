@@ -1,7 +1,5 @@
 print('<Game Jokenpo>')
-
-jogo = ["pedra","papel","tesoura"]
-
+'''Game = PEDRA, PAPEL, TESOURA'''
 
 while True:
     jogada1 = int(input(''' [1 - Jogador] \nEscolha \n0 - PEDRA\n1 - PAPEL\n2 - TESOURA \nDigite aqui -->'''))
@@ -17,3 +15,10 @@ while True:
     if perg == 'n':
         break
 print("Programa encerrado!")
+
+
+
+
+
+
+
